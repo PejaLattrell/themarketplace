@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.next-e2e/
+.next-recording/
+.npm-cache/
+.vercel/
+.env*
+!.env.example
+tsconfig.tsbuildinfo
+artifacts/
+test-results/
